@@ -1,0 +1,10 @@
+.fullscreen-fixed {
+    width: 100%;           /* Equivalent to w-full */
+    height: auto;          /* Equivalent to h-auto */
+    position: fixed;       /* Equivalent to fixed */
+    top: 0;                /* Part of inset-0 */
+    right: 0;              /* Part of inset-0 */
+    bottom: 0;             /* Part of inset-0 */
+    left: 0;               /* Part of inset-0 */
+    z-index: 0;           /* Equivalent to z-[20] */
+  }

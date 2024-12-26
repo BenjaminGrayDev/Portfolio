@@ -1,0 +1,63 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@mediapipe/tasks-vision": "^0.10.18",
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "baseui": "^14.0.0",
+    "bootstrap": "^5.3.3",
+    "framer-motion": "^11.11.17",
+    "glamor": "^2.20.40",
+    "postcss": "^8.4.49",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18.3.1",
+    "react-ga": "^3.3.1",
+    "react-icons": "^5.3.0",
+    "react-image": "^4.1.0",
+    "react-intersection-observer": "^9.13.1",
+    "react-is": "^18.3.1",
+    "react-router-dom": "^7.0.1",
+    "react-scripts": "5.0.1",
+    "react-svg": "^16.2.0",
+    "styled-components": "^6.1.13",
+    "styletron-engine-atomic": "^1.6.2",
+    "styletron-react": "^6.1.1",
+    "tailwindcss": "^3.4.15",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start --no-source-maps",
+    "build": "react-scripts build --no-source-maps",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "source-map-loader": "^5.0.0"
+  }
+}
