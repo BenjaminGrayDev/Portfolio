@@ -10,22 +10,22 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello",
-  title2: "Louis",
-  logo_name: "Louis Lefevre",
-  nickname: "GongGong",
-  full_name: "Louis Lefevre",
+  title2: "Benjamin",
+  logo_name: "Benjamin Gray",
+  nickname: "HealerDev",
+  full_name: "Benjamin Gray",
   subTitle1: "🔥FullStack and Mobile Developer",
   subTitle2: "🔥GIS developer",
   subTitle3: "🔥 Software engineer",
   resumeLink:
     "https://drive.google.com/file/d/1UknfC2On0zrABc0bCSe_ETitmw6BahkO/view?usp=drive_link",
-  mail: "mailto:gonggong624721@gmail.com",
+  mail: "mailto:benjamin.gray.dev@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/loyaldev322",
-  gmail: "gonggong624721@gmail.com",
+  github: "https://github.com/BenjaminGrayDev",
+  gmail: "benjamin.gray.dev@gmail.com",
 };
 
 const skills = {
